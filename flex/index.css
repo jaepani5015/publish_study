@@ -1,0 +1,17 @@
+body {
+    padding: 10px;
+    background-color:rgb(193, 193, 193);
+}
+
+.container {
+    /* display: flex; */
+    display: inline-flex;
+}
+
+.item {
+    margin: 10px 0;
+    padding: 10px;
+
+    background-color: burlywood;
+    border: 1px solid white;
+}
